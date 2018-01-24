@@ -1,0 +1,5 @@
+{
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Cheat sheet", "#"], ["Dataset name", "Test Cheat Sheet Multimedia NL-F", "This is a NL-F multimedia test dataset for the mobile app. For study and testing purposes only!"], ["Version number", "0.0.2", "#"], ["Version date", "20180123", "#"], ["Author", "TCD", "#"], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "(C) Copyright MoD-NL", "All rights reserved! This dataset is not for free reuse! Images not Free; they need replacing!!!"]]
+}

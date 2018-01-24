@@ -1,0 +1,38 @@
+{
+"List":[
+{
+"manifest.json":[712],
+"dataset.json":[4938]
+}
+,
+{
+"Folder size: Audio-G-Nederlands":[707225],
+"File list: Audio-G-Nederlands":["acht.mp3", "alstublieft.mp3", "dinsdag.mp3", "donderdag.mp3", "drie.mp3", "duizend.mp3", "een.mp3", "een_miljoen.mp3", "hallo_dag.mp3", "honderd.mp3", "honderdduizend.mp3", "maandag.mp3", "negen.mp3", "nul.mp3", "tien.mp3", "twee.mp3", "vier.mp3", "vijf.mp3", "vrijdag.mp3", "woensdag.mp3", "zaterdag.mp3", "zes.mp3", "zeven.mp3", "zondag.mp3"]
+}
+,
+{
+"Folder size: Audio-M-Nederlands":[198405],
+"File list: Audio-M-Nederlands":["alstublieft.mp3", "hallo_dag.mp3", "honderdduizend.mp3", "vier.mp3", "woensdag.mp3", "zondag.mp3"]
+}
+,
+{
+"Folder size: Audio-G-Frans":[616095],
+"File list: Audio-G-Frans":["bonjour.mp3", "cent.mp3", "cent_mille.mp3", "cinq.mp3", "deux.mp3", "dimanche.mp3", "dix.mp3", "huit.mp3", "jeudi.mp3", "lundi.mp3", "mardi.mp3", "mercredi.mp3", "mille.mp3", "neuf.mp3", "quatre.mp3", "samedi.mp3", "sept.mp3", "six.mp3", "trois.mp3", "un.mp3", "un_million.mp3", "vendredi.mp3", "voila.mp3", "zero.mp3"]
+}
+,
+{
+"Folder size: Audio-M-Frans":[161982],
+"File list: Audio-M-Frans":["bonjour.mp3", "cent_mille.mp3", "lundi.mp3", "quatre.mp3", "vendredi.mp3", "voila.mp3"]
+}
+,
+{
+"Folder size: Audio-F-Frans":[166266],
+"File list: Audio-F-Frans":["bonjour.mp3", "cent_mille.mp3", "dimanche.mp3", "mercredi.mp3", "quatre.mp3", "voila.mp3"]
+}
+,
+{
+"Folder size: Images":[642431],
+"File list: Images":["bonjour_1_chalkboard.jpg", "bonjour_2_yellow_cup_of_coffee.jpeg", "les_jours_de_la_semaine.jpg", "les_jours_de_la_semaine_en_francais.jpg", "les_nombres_1_les_nombres_1_a_10.png", "les_nombres_2_adjectifs_numeraux.jpg", "les_nombres_3_les_nombres_cardinaux.jpg", "voila_1.png"]
+}
+]
+}
